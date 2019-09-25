@@ -198,9 +198,5 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
-/src/StudentPortal/Web/SCSA-StudentPortal-Web-SPA/.vscode
-/src/Frontend/.change'
-/src/Frontend/test-results
 /.vscode/
-/src/SRMS/Services/SCSA.SRMS.Services.Functions/local.settings.json
 *.trx
